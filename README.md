@@ -1,8 +1,5 @@
 # Log File Analysis
-## Analysis
 
-### Data Preparation
+Feature 1 and 2 output on screen. 
 
-### Data Process and Output
-
-## Code
+Do fixes to compy with the test suite requirements
