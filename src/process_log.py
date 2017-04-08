@@ -59,7 +59,8 @@ def main(logPath,hostsPath,hoursPath,resourcesPath,blockedPath):
 #Resources:
     print 'Working on Feature 2 ...'
     start = time.time()
-    oFile = open(resourcesPath,'w') 
+    oFile = open(resourcesPath,'w')
+    print resourcesPath 
     #Sort based on resource path:
     sortedData = sorted(parsedData, key=lambda x: x[6])
     requests2  = [row[6] for row in sortedData]    
@@ -102,7 +103,7 @@ def main(logPath,hostsPath,hoursPath,resourcesPath,blockedPath):
 #Hours
     print 'Working on Feature 3 ...'
     start = time.time()
-    oFile = open(resourcesPath,'w') 
+    oFile = open(hoursPath,'w') 
     timeStamps = [row[3][1:] for row in parsedData]    
     times = []
     #Convert timeStamps to datetime objects

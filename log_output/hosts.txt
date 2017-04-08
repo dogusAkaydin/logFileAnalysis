@@ -1,9 +1,7 @@
-piweba3y.prodigy.com, 22309
-piweba4y.prodigy.com, 14903
-piweba1y.prodigy.com, 12876
-siltb10.orl.mmc.com, 10578
-alyssa.prodigy.com, 10184
-edams.ksc.nasa.gov, 9095
-piweba2y.prodigy.com, 7961
-163.206.89.4, 6520
-www-d3.proxy.aol.com, 6299
+207.109.29.70, 6
+siltb10.orl.mmc.com, 1
+queen.torfree.net, 1
+ppp-hck-2-7.ios.com, 1
+221.129.27.42, 1
+207.206.16.45, 1
+207.135.76.42, 1
